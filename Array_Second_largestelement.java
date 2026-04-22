@@ -7,7 +7,7 @@ public class Array_Second_largestelement {
         for (int i=0;i<n;i++){
             if(arr[i]>largest)
             largest=arr[i];
-        }
+        } 
         for(int j=0;j<n;j++){
             if(arr[j]>slargest && arr[j]!=largest)
             slargest=arr[j];
