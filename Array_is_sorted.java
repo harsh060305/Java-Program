@@ -9,7 +9,7 @@ public class Array_is_sorted {
                 return false;
             }
             
-        }return true;
+        }return true; 
         
     }
     
