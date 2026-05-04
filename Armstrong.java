@@ -9,7 +9,7 @@ public class Armstrong{
         int temp=num;
         int sum=0;
         int n;
-        while(temp!=0)
+        while(temp!=0) 
         {
             n=temp%10;
             sum=n*n*n+sum;
