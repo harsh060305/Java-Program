@@ -15,7 +15,7 @@ public class Armstrong{
             sum=n*n*n+sum;
             temp=temp/10;
 
-        }
+        } 
         if(num==sum)
         {
             System.out.println(num +" is armstrong number.");
