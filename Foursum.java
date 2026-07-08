@@ -3,7 +3,7 @@ import java.util.*;
 public class Foursum{
 
     public static List<List<Integer>> foursum(int[] nums,int target){
-
+ 
         //have final answer
         List<List<Integer>> arr=new ArrayList<>();
         int n=nums.length;
